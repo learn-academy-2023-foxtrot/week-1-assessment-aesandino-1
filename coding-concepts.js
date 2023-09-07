@@ -8,10 +8,9 @@
 
 // --------------------INSTRUCTOR EXAMPLE: What will this log?
 const colors = ["tangerine", "magenta", "lilac", "daffodil"]
-console.log(colors.push("indigo"))
+// console.log(colors.push("indigo"))
 
-
-// a) Your answer: My prediction is: "tangerine", "magenta", "lilac", "daffodil", "indigo"
+// a) Your answer:
 // b) Verify and explain:
 
 // --------------------1) What will this log?
@@ -19,7 +18,7 @@ console.log(colors.push("indigo"))
 const cohort = "LEARN 2023"
 // console.log(cohort.length)
 
-// a) Your answer: My prediction is: 10. 
+// a) Your answer:
 // b) Verify and explain:
 
 // --------------------2) What will this log?
@@ -27,7 +26,7 @@ const cohort = "LEARN 2023"
 const greeting = "Hello World!"
 // console.log(greeting[4])
 
-// a) Your answer: My prediction is: "Hello World!" "Hello World!" "Hello World!" "Hello World"
+// a) Your answer:
 // b) Verify and explain:
 
 // --------------------3) What will this log?
@@ -36,7 +35,7 @@ const languages = ["JavaScript", "Ruby", "Python", "C++"]
 const index = 1
 // console.log(languages[index])
 
-// a) Your answer:My prediction is: "a"
+// a) Your answer:
 // b) Verify and explain:
 
 // --------------------4) What will this log?
@@ -44,7 +43,7 @@ const index = 1
 const weekendDays = ["saturday", "sunday"]
 // console.log(weekendDays.toUpperCase())
 
-// a) Your answer:My prediction is: "SATURDAY", "SUNDAY"
+// a) Your answer:
 // b) Verify and explain:
 
 // --------------------5) What will this log?
@@ -52,5 +51,5 @@ const weekendDays = ["saturday", "sunday"]
 const dataTypes = ["number", "string", "Boolean", "undefined"]
 // console.log(typeof dataTypes.length)
 
-// a) Your answer: My prediction is: 39.
+// a) Your answer:
 // b) Verify and explain:
