@@ -1,4 +1,4 @@
-//ASSESSMENT 1: Coding Practical Questions
+//ASSESSMENT 1: Coding Practical Questions --
 // Please read all questions thoroughly
 // Pseudo coding is REQUIRED
 // If you get stuck, leave comments to help us understand your thought process

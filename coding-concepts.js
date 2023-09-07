@@ -1,4 +1,4 @@
-//ASSESSMENT 1: Coding Conceptual Questions
+//ASSESSMENT 1: Coding Conceptual Questions --
 // Examine the following examples.
 // First, predict the outcome based on your understanding of the code.
 // Then, uncomment the console.log() and verify the output. Briefly explain why your initial answer was correct or incorrect.

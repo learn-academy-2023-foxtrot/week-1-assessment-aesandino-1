@@ -1,4 +1,4 @@
-# ASSESSMENT 1: Tech Interview Practice Questions
+# ASSESSMENT 1: Tech Interview Practice Questions --
 Answer the following questions.
 First, without external resources. Challenge yourself to answer from memory as if you were in a job interview. If you don't know the answer a good tip is to answer a simpler version of the question.
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
